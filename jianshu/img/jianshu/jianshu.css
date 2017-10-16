@@ -1,0 +1,218 @@
+a:link {
+    text-decoration: none;
+}
+#header
+ {
+     height:50px;
+     width:100%;
+     border-bottom: 1px solid gainsboro;
+ }
+#headerLeft
+ {
+    float:left;
+    width:700px;
+    height:40px;
+ }
+#headerRight
+{
+    float:right;
+    width:300px;
+    height:60px;
+}
+#headerRight p
+{
+    display: inline;
+    margin-left: 40px;
+}
+#rightWrite{
+    width:100px;
+    height:45px;
+    background: red;
+    border-radius:20px;
+    line-height: 45px;
+    margin-top: 3px;
+    text-align:center;
+}
+#guide{
+    width:600px;
+    height:150px;
+    margin-left:93px;
+    margin-top:40px;
+    border-bottom:1px solid gainsboro;
+    
+}
+.list1 li{
+     list-style: none;
+     display: inline;
+     margin-left: 35px;
+     margin-top: 10px;
+}
+.list1{
+    margin-top:0px;
+}
+.tip
+{
+    color:black;
+}
+.tip2
+{
+    margin-left:20px;
+    margin-bottom:6px;
+    height: 30px;
+    border-radius:20px;
+}
+.big
+{
+    color:red;
+    font-size:30px;
+    margin-left:-80px;
+}
+.tu1{
+    height:32px;
+    width:32px;
+
+}
+.tu3{
+    width:45px;
+
+}
+.list4{
+    display:none;
+    width:200px;
+    height:300px;
+    border:1px solid gainsboro;
+}
+#login{
+    width:150px;
+    height:300px;
+    margin-top:70px;
+    margin-left:30px;
+    text-align:center;
+    display:none;
+    float: right;
+    border:1px solid #ccc;
+}
+#login:hover .list4{
+    display:block;
+}
+.list2{
+    list-style:none;
+    display: inline-block;
+    margin:0 18px 18px 0;
+    background-color: #f7f7f7;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    height:32px;
+    /*line-height:20px; 
+}*/
+}
+
+.discribte{
+    color:black;
+    display: inline-block;
+    padding: 0 11px 0 6px;
+    font-size: 14px;
+}
+#middleright
+{
+    float:right;
+    margin-top:50px;
+    margin-right:150px;
+    width:300px;
+
+}
+#middleleft{
+    width:600px;
+     float:left;
+}
+.list3{
+    width:80px;
+    height:10px;
+    margin-bottom:10px;
+    border-radius:4px;
+    padding:20px 100px 20px 100px;
+    color:black;
+    font-size:14px;
+}
+.ma
+{
+    width:280px;
+    height:70px;
+    border:1px solid gainsboro;
+    border-radius:4px;
+    position:relative;
+}
+
+.tu2{
+    width:60px;
+    height:60px;
+}
+.bigma{
+    display:none;
+    width:120px;
+    height:120px;
+    position:absolute;
+    top:-140px;
+    left:50px;
+
+}
+.ma:hover .bigma{
+    display:block;
+}
+#write{
+    width:30px;
+    background:red;
+}
+.user{
+    width:200px;
+    display: inline;
+    margin-left: 100px;
+}
+.tu4{
+    width:30px;
+}
+.list4 li
+{
+list-style: none;
+line-height: 50px;
+}
+.eaasy{
+    width:470px;
+    height:170px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.eaasy p{
+    font-size:13px;
+}
+.author{
+    width:280px;
+    height:80px;
+}
+#scroll {
+        width: 60px;
+        height: 50px;
+        right: 45px;
+        bottom: 50px;
+        cursor: pointer;
+        position: fixed;
+    }
+.tu5{
+    width:120px;
+    height: 120px;
+    float:right;
+    margin-top: 30px;
+    margin-left: 2px;
+}
+#lun{
+    margin-left: -40px;
+}
+#lun li
+{
+    list-style: none;
+    display: inline-block;
+    margin-left:10px;
+}
+.tu6{
+    width:14px;
+}
